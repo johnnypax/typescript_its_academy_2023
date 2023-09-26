@@ -1,0 +1,1 @@
+Creare una API REST con NodeJS in TYPESCRIPT che mi elenchi tutti i contatti di una rubrica salvata in MongoDB.
